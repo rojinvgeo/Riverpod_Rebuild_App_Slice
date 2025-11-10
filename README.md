@@ -1,16 +1,28 @@
-# app_slice_riverpod
+# 🌀 Riverpod Rebuild App Slice
 
-A new Flutter project.
+## 📖 Overview
+A simple Flutter project demonstrating how **Riverpod** handles reactive state and rebuilds efficiently.
 
-## Getting Started
+## ⚙️ Features
+- Built using **Flutter + Riverpod**
+- Demonstrates fine-grained widget rebuilds
+- Clean state management with `StateProvider`
+- Minimal boilerplate and high performance
 
-This project is a starting point for a Flutter application.
+## 🧰 Tech Stack
+- Flutter
+- Riverpod
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Setup
+```bash
+git clone https://github.com/yourusername/Riverpod_Rebuild_App_Slice.git
+```
+```bash
+cd app_slice_riverpod
+```
+```bash
+flutter pub get
+```
+```bash
+flutter run
+```
